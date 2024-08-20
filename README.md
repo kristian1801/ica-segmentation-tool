@@ -54,8 +54,7 @@ Performs region growing segmentation on a 2D image. It applies a region growing 
 4. The code handles the segmentation and calculation of the ICA diameter.
 
 ## Requirements
-
-[List any dependencies or system requirements]
+Matlab licence
 
 ## Contributing
 
