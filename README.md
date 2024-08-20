@@ -18,7 +18,8 @@ The main function of this tool is `segment_ICA`. Here's how to use it:
 ```matlab
 segment_ICA('path/to/image.nii', 'path/to/save/results/mySegmentation.csv')
 ```
-
+# This will open a GUI for the user to manually navigate the image and select the ICA for segmentation
+![Alt text](ica-segmentation-tool/gui.jpg)
 ### Parameters:
 - `filePath`: String specifying the full path to the .nii file containing the TOF MR image.
 - `pathAndNameToSave`: String specifying the path and the subject-specific name under which the segmentation results (.csv file) will be saved.
