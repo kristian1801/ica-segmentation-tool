@@ -25,7 +25,7 @@ segment_ICA('path/to/image.nii', 'path/to/save/results/mySegmentation.csv')
 <img src="choose.png" alt="gui Example" width="300"/>
 
 #### You can visualise the ICA after it has been identified
-<img src="ica.png" alt="gui Example" width="300"/>
+<img src="ica.png" alt="gui Example" height="300" width="300"/>
 
 
 ### Parameters:
